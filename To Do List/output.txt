@@ -1,0 +1,201 @@
+python todo.py
+
+Enter your choice:
+1.Create a todo list
+2.Add task
+3.Update task.
+4.Delete Task
+5.Display to do list
+6.Clear todo list
+7.Exit
+5
+***** TO DO LIST *****
+
+Enter your choice:
+1.Create a todo list
+2.Add task
+3.Update task.
+4.Delete Task
+5.Display to do list
+6.Clear todo list
+7.Exit
+1
+
+Creating a to do list...
+
+Enter the task to add in To Do List:Wake up
+
+Enter your choice:
+1.Create a todo list
+2.Add task
+3.Update task.
+4.Delete Task
+5.Display to do list
+6.Clear todo list
+7.Exit
+2
+
+Enter the task to add in To Do List:Brush
+
+Enter your choice:
+1.Create a todo list
+2.Add task
+3.Update task.
+4.Delete Task
+5.Display to do list
+6.Clear todo list
+7.Exit
+2
+
+Enter the task to add in To Do List:Breakfast
+
+Enter your choice:
+1.Create a todo list
+2.Add task
+3.Update task.
+4.Delete Task
+5.Display to do list
+6.Clear todo list
+7.Exit
+2
+
+Enter the task to add in To Do List:Bath
+
+Enter your choice:
+1.Create a todo list
+2.Add task
+3.Update task.
+4.Delete Task
+5.Display to do list
+6.Clear todo list
+7.Exit
+5
+***** TO DO LIST *****
+1. Wake up
+2. Brush
+3. Breakfast
+4. Bath
+
+Enter your choice:
+1.Create a todo list
+2.Add task
+3.Update task.
+4.Delete Task
+5.Display to do list
+6.Clear todo list
+7.Exit
+2
+
+Enter the task to add in To Do List:Go to walk
+
+Enter your choice:
+1.Create a todo list
+2.Add task
+3.Update task.
+4.Delete Task
+5.Display to do list
+6.Clear todo list
+7.Exit
+2
+
+Enter the task to add in To Do List:Buy food
+
+Enter your choice:
+1.Create a todo list
+2.Add task
+3.Update task.
+4.Delete Task
+5.Display to do list
+6.Clear todo list
+7.Exit
+5
+***** TO DO LIST *****
+1. Wake up
+2. Brush
+3. Breakfast
+4. Bath
+5. Go to walk
+6. Buy food
+
+Enter your choice:
+1.Create a todo list
+2.Add task
+3.Update task.
+4.Delete Task
+5.Display to do list
+6.Clear todo list
+7.Exit
+3
+
+Enter the serial number of task to update:3
+
+Enter the task which you want to update at Breakfast:Eat fruits
+
+Your task updated successfully
+
+Loading updated To Do List...
+***** TO DO LIST *****
+1. Wake up
+2. Brush
+3. Eat fruits
+4. Bath
+5. Go to walk
+6. Buy food
+
+Enter your choice:
+1.Create a todo list
+2.Add task
+3.Update task.
+4.Delete Task
+5.Display to do list
+6.Clear todo list
+7.Exit
+4
+
+Enter the serial number of task to delete:5
+
+Your task deleted successfully
+
+Loading updated To Do List...
+***** TO DO LIST *****
+1. Wake up
+2. Brush
+3. Eat fruits
+4. Bath
+5. Buy food
+
+Enter your choice:
+1.Create a todo list
+2.Add task
+3.Update task.
+4.Delete Task
+5.Display to do list
+6.Clear todo list
+7.Exit
+6
+
+Clearing To Do List...
+
+After clearing To Do List
+***** TO DO LIST *****
+
+Enter your choice:
+1.Create a todo list
+2.Add task
+3.Update task.
+4.Delete Task
+5.Display to do list
+6.Clear todo list
+7.Exit
+5
+***** TO DO LIST *****
+
+Enter your choice:
+1.Create a todo list
+2.Add task
+3.Update task.
+4.Delete Task
+5.Display to do list
+6.Clear todo list
+7.Exit
+7
